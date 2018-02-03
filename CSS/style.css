@@ -1,0 +1,38 @@
+.left{
+    float: left;
+    width: 50%;
+}
+.Seyi{
+    float: left;
+}
+.right{
+    float: right;
+    width: 30%
+    
+}
+.Links{
+    float: right;
+}
+.group:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .div1{
+      width: 960px;
+      margin: 0 auto;      
+  }
+  .Main3{
+      font-size: 18px;
+      background-color: teal;
+      color: white;
+      width: 15%;
+      border-color: #cccccc;
+  }
+  body{
+      background-color:#ffffff;
+      border-color: #dddddd
+  }
+  footer{
+      background-color: gray;
+  }
